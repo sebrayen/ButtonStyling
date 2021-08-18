@@ -1,0 +1,32 @@
+button {
+    font-family: sans-serif;
+    font-size: 12pt;
+}
+.search {
+    color: rgb(6, 196, 196);
+    background-color: whitesmoke;
+    border-radius: 12px;
+    border: 2px solid rgb(6, 196, 196); 
+    padding: 5px 35px;
+
+}
+
+.plus {
+    color: white;
+    background-color:rgb(6, 196, 196);
+    border-radius: 50%;
+    border: 0px solid rgb(6, 196, 196); 
+    padding: 5px 10px;
+
+}
+
+.create-account {
+    color: white;
+    font-size: 14pt;
+    background-color: rgb(27, 111, 221);
+    border-radius: 0;
+    border: 2px solid black; 
+    padding: 5px 30px;
+    box-shadow: 7px 5px 5px black;
+
+}
